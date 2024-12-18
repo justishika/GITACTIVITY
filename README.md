@@ -1,3 +1,2 @@
 # GITACTIVITY
-
-hiii im ishika
+hello, this is my git class.
